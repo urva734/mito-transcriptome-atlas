@@ -66,14 +66,7 @@ UGA->Trp: 12 | AUA->Met: 45 | m.3243A>G G-U wobble destabilized
 
 ![GC Skew](figures/gc_skew_origin.png)
 
-## 📊 Generated Plots
-`figures/circular_map.png`:
-- X = Circular genome 0-16569 bp
-- Colors = CDS, tRNA, rRNA - Shows compact 92.7% coding
 
-`figures/gc_skew_origin.png`:
-- X = Position, Y = GC-skew (G-C)/(G+C)
-- Peak at 14000 bp = OH origin D-loop
 
 ## 📁 Downloaded Files
 ```
