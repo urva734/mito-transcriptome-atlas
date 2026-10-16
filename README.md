@@ -24,7 +24,7 @@ Using VS Code:
 1. Clone repo `git clone https://github.com/urva734/mito-transcriptome-atlas.git`
 2. Install deps `pip install -r requirements.txt`
 3. Run workflow:
-   ```
+```
 python src/01_parse.py
 python src/02_visualize.py
 python src/03_rna_logic.py
