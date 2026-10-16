@@ -77,7 +77,6 @@ src/02_visualize.py - Circular + skew plots
 src/03_rna_logic.py - Recoding logic
 src/04_structure.py - Punctuation + disease
 workflow/module_01 to 05 - Detailed modules
-LICENSE - MIT license
 ```
 
 ## ⚙️ How It Works
