@@ -1,6 +1,6 @@
 # 🧬 Human Mitochondrial Transcriptome Atlas
 
-An end-to-end Python pipeline that annotates human mitochondrial genome from genome architecture to disease mapping. Built from first principles without Biopython.
+An end-to-end Python pipeline that annotates human mitochondrial genome from genome architecture to disease mapping. 
 
 ## 👤 Author
 **Urva Sohail**
